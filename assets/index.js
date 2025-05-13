@@ -1,5 +1,5 @@
 let kullaniciSecimi = prompt(`Taş, kağıt veya makas? Seçiminizi yazın:
-Lütfen hepsini küçük harflerle yazın:)`);
+Lütfen hepsini küçük harflerle yazınız.`);
 
 let bilgisayarHamlesi = ["taş", "kağıt", "makas"].at(Math.floor(Math.random() * 3));
 
